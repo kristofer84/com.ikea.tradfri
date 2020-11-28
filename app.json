@@ -1046,6 +1046,11 @@
         },
         "onoff": {
           "setOnDim": false
+        },
+        "light_temperature": {
+          "opts": {
+            "duration": true
+          }
         }
       },
       "zigbee": {
